@@ -1,4 +1,4 @@
-module github.com/0xMilenov
+module github.com/0xMilenov/Bug-Bounty-Go-Scrapper
 
 go 1.20
 
